@@ -122,18 +122,11 @@ class Equirhythmic_algorithm {
                 if(Matrix[arrayList_helper.get(i)][arrayList_helper.get(i+2)]!=1)
                 {
                     color++;
-
                 }
-
         }
-
-
-
     }
     public void search_in_Matrix()
-    {
-
-    }
+    {}
 }
 
 
